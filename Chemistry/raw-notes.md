@@ -7,9 +7,9 @@ _pg 414_
 
 ### 13-1 Model to Explain Gas Behavior
 
-- AIr is a mixture of gases 
+- Air is a mixture of gases 
   -  80% Nitrogen, 16% Oxygen, 3% CO<sub>2</sub>
-  -  new option
+  -  new option :zzz:	
 
 
 
