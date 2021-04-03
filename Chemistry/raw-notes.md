@@ -12,7 +12,7 @@ _pg 414_
   -  Medium in which energy and matter are transported
 -  Atoms and molecules compose gases
 
-The nature of gases
+#### The nature of gases
 -  Gases have mass
 -  It is easy to compress gases
 -  Gases fill their containers completely 
@@ -22,8 +22,7 @@ The nature of gases
    -  Higher the temperature, the lower the pressure
 -  Gas properties are explained by a kinetic-moleculer model
   
-  
-  The kinetic-molecular theory
+#### The kinetic-molecular theory
 -  Begins with the assumption that a gas consists of small particles that have mass
 -  Particles in a gas must be separated from each other by relatively large distances
 -  Particles of a gas must be in constant rapid motion
@@ -33,8 +32,6 @@ The nature of gases
 -  Gas pressure increases when temperature increases 
    -  KE = mv^2/2
       -  Kinetic energy equals mass times velocity squared divided by two
-
-#### The Kinetic Molecular Theory
 
 ### 13-2 Measuring Gases
 
