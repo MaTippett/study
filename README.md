@@ -1,3 +1,3 @@
 # study
 
-Tis is my notes
+This is my notes

@@ -9,7 +9,17 @@ _pg 414_
 
 - Air is a mixture of gases 
   -  80% Nitrogen, 16% Oxygen, 3% CO<sub>2</sub>
-  -  new option :zzz:	
+  -  Medium in which energy and matter are transported
+-  Atoms and molecules compose gases
+-  The nature of gases
+   -  Gases have mass
+   -  It is easy to compress gases
+   -  Gases fill their containers completely 
+   -  Different gases can move through each other rapidly
+      -  Diffusion: the movement of one substance through another
+   -  The pressure of a gas depends on its temperature 
+      -  Higher the temperature, the lower the pressure
+   -  Gas properties are explained by a kinetic-moleculer model
 
 
 
