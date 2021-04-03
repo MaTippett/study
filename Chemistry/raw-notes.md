@@ -30,7 +30,7 @@ _pg 414_
 -  Collisions of gas must be perfectly elastic
    -  Gas particles keep colliding with each other and with container walls w/o slowing down
 -  Gas pressure increases when temperature increases 
-   -  KE = mv^2/2
+   -  KE = *mv*<sup>2</sup>/2
       -  Kinetic energy equals mass times velocity squared divided by two
 
 ### 13-2 Measuring Gases
